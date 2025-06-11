@@ -29,6 +29,8 @@
 ![IPsec VPN](https://img.shields.io/badge/IPsec%20VPN-Cisco-1BA0D7?style=for-the-badge)
 ![xDSL](https://img.shields.io/badge/xDSL-ITU-007396?style=for-the-badge)
 ![IP-MSAN](https://img.shields.io/badge/IP--MSAN-Huawei-FF0000?style=for-the-badge)
+![VoIP](https://img.shields.io/badge/VoIP-008080?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-DD0000?style=for-the-badge)
 
 ---
 
@@ -47,8 +49,12 @@
 
 ## 🛡️ Cybersecurity & Monitoring
 
-![SIEM](https://img.shields.io/badge/SIEM-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-4B0082?style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-2A2E43?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge)
@@ -64,6 +70,7 @@
 ## 💻 Development & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
