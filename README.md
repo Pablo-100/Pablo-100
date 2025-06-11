@@ -16,47 +16,60 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Tech Stack
 
-### Networks & Infrastructure
-- [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/ccna/index.html)
-- [Huawei Networking](https://support.huawei.com/enterprise/en/networking/62745.html)
-- [VLAN Configuration - Cisco](https://www.cisco.com/c/en/us/support/docs/lan-switching/vlan/10023-3.html)
-- [Eth-Trunk - Huawei](https://support.huawei.com/enterprise/en/doc/EDOC1000189344)
-- [IPsec VPN - Cisco](https://www.cisco.com/c/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/14103-3.html)
-- [xDSL - ITU Overview](https://www.itu.int/en/ITU-T/broadband/Pages/xdsl.aspx)
-- [IP-MSAN - Huawei](https://support.huawei.com/enterprise/en/doc/EDOC1000038353)
+---
 
-### Systems & Virtualization
-- [Red Hat](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
-- [Ubuntu Server](https://ubuntu.com/server/docs)
-- [Rocky Linux](https://docs.rockylinux.org/)
-- [CentOS](https://wiki.centos.org/)
-- [Windows Server](https://learn.microsoft.com/en-us/windows-server/)
-- [VMware vSphere](https://docs.vmware.com/en/VMware-vSphere/index.html)
-- [VirtualBox](https://www.virtualbox.org/manual/UserManual.html)
-- [ESXi](https://docs.vmware.com/en/VMware-vSphere/index.html)
+## 🛰️ Networks & Infrastructure
 
-### Cybersecurity & Monitoring
-- [SIEM - IBM Overview](https://www.ibm.com/topics/siem)
-- [ELK Stack (Elastic)](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html)
-- [Wireshark](https://www.wireshark.org/docs/)
-- [Kali Linux](https://www.kali.org/docs/)
-- [Metasploit](https://docs.rapid7.com/metasploit/)
-- [Nmap](https://nmap.org/book/inst-windows.html)
-- [Burp Suite](https://portswigger.net/burp/documentation)
-- [Nessus](https://www.tenable.com/products/nessus/nessus-essentials)
-- [OpenVAS (Greenbone)](https://docs.greenbone.net/)
-- [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/)
-- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLAN%20Config-Cisco-1BA0D7?style=for-the-badge)
+![Eth-Trunk](https://img.shields.io/badge/Eth--Trunk-Huawei-FF0000?style=for-the-badge)
+![IPsec VPN](https://img.shields.io/badge/IPsec%20VPN-Cisco-1BA0D7?style=for-the-badge)
+![xDSL](https://img.shields.io/badge/xDSL-ITU-007396?style=for-the-badge)
+![IP-MSAN](https://img.shields.io/badge/IP--MSAN-Huawei-FF0000?style=for-the-badge)
 
-### Development & Scripting
-- [Python](https://docs.python.org/3/)
-- [PHP](https://www.php.net/manual/en/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [MySQL](https://dev.mysql.com/doc/)
-- [PowerShell](https://learn.microsoft.com/en-us/powershell/)
-- [Bash Scripting](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
+---
+
+## 🖥️ Systems & Virtualization
+
+![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/VMware%20vSphere-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![ESXi](https://img.shields.io/badge/ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+---
+
+## 🛡️ Cybersecurity & Monitoring
+
+![SIEM](https://img.shields.io/badge/SIEM-IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-4E4E4E?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00465F?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F1711B?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00A9E0?style=for-the-badge&logo=tenable&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-6AAD3D?style=for-the-badge)
+![OWASP WSTG](https://img.shields.io/badge/OWASP%20WSTG-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST%20800--115-4C4C4C?style=for-the-badge)
+
+---
+
+## 💻 Development & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 
 ---
 
