@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mustapha Amine TBINI
 
-**Network & Systems Administrator | Cybersecurity Enthusiast | Full-Stack Developer**
+**Network & Systems Administrator | Cybersecurity Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-amin-tbini)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustaphaamintbini@gmail.com)
