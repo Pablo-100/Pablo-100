@@ -9,68 +9,74 @@
 
 ## 🚀 About Me
 
-🎓 Recent graduate in **Network Technologies and IT Services** from Higher Institute of Technological Studies, Rades  
-💼 **SIEM Implementation Specialist** with hands-on experience at Topnet Tunisia  
-🔐 **Cybersecurity enthusiast** and active member of **Securinet TEKUP**  
+🎓 Graduate in **Network Technologies and IT Services** – ISET Rades  
+💼 Hands-on experience in **SIEM Implementation** at Topnet Tunisia  
+🔐 Cybersecurity enthusiast | Member of **Securinet TEK-UP**  
 🌐 Passionate about network infrastructure, system administration, and security solutions
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Networks & Infrastructure**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![VLAN](https://img.shields.io/badge/VLAN-4CAF50?style=for-the-badge)
-![VPN](https://img.shields.io/badge/IPsec_VPN-FF6B35?style=for-the-badge)
+### Networks & Infrastructure
+- [Cisco CCNA](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/associate/ccna/index.html)
+- [Huawei Networking](https://support.huawei.com/enterprise/en/networking/62745.html)
+- [VLAN Configuration - Cisco](https://www.cisco.com/c/en/us/support/docs/lan-switching/vlan/10023-3.html)
+- [Eth-Trunk - Huawei](https://support.huawei.com/enterprise/en/doc/EDOC1000189344)
+- [IPsec VPN - Cisco](https://www.cisco.com/c/en/us/support/docs/security-vpn/ipsec-negotiation-ike-protocols/14103-3.html)
+- [xDSL - ITU Overview](https://www.itu.int/en/ITU-T/broadband/Pages/xdsl.aspx)
+- [IP-MSAN - Huawei](https://support.huawei.com/enterprise/en/doc/EDOC1000038353)
 
-### **Systems & Virtualization**
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+### Systems & Virtualization
+- [Red Hat](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
+- [Ubuntu Server](https://ubuntu.com/server/docs)
+- [Rocky Linux](https://docs.rockylinux.org/)
+- [CentOS](https://wiki.centos.org/)
+- [Windows Server](https://learn.microsoft.com/en-us/windows-server/)
+- [VMware vSphere](https://docs.vmware.com/en/VMware-vSphere/index.html)
+- [VirtualBox](https://www.virtualbox.org/manual/UserManual.html)
+- [ESXi](https://docs.vmware.com/en/VMware-vSphere/index.html)
 
-### **Cybersecurity & Monitoring**
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+### Cybersecurity & Monitoring
+- [SIEM - IBM Overview](https://www.ibm.com/topics/siem)
+- [ELK Stack (Elastic)](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-elastic-stack.html)
+- [Wireshark](https://www.wireshark.org/docs/)
+- [Kali Linux](https://www.kali.org/docs/)
+- [Metasploit](https://docs.rapid7.com/metasploit/)
+- [Nmap](https://nmap.org/book/inst-windows.html)
+- [Burp Suite](https://portswigger.net/burp/documentation)
+- [Nessus](https://www.tenable.com/products/nessus/nessus-essentials)
+- [OpenVAS (Greenbone)](https://docs.greenbone.net/)
+- [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/)
+- [NIST SP 800-115](https://csrc.nist.gov/publications/detail/sp/800-115/final)
 
-### **Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### Development & Scripting
+- [Python](https://docs.python.org/3/)
+- [PHP](https://www.php.net/manual/en/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [MySQL](https://dev.mysql.com/doc/)
+- [PowerShell](https://learn.microsoft.com/en-us/powershell/)
+- [Bash Scripting](https://tldp.org/LDP/Bash-Beginners-Guide/html/)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🏢 [Enterprise Network Infrastructure](link-to-repo)
-**Multi-site enterprise network architecture with advanced security**
-- Designed comprehensive network topology using eNSP
-- Implemented VLAN segmentation and Eth-Trunk configuration
-- Deployed Layer 3 switches, firewalls, and access control systems
+### 🏢 [Enterprise Network Infrastructure](#)
+- Designed enterprise network with VLAN segmentation & security  
+- Configured Eth-Trunk, static routing, and firewall rules  
+- Used [eNSP](https://support.huawei.com/enterprise/en/tool/ensp/62746.html) for topology simulation  
+**Tech:** Cisco, Huawei, Ubuntu Server, VLAN, Eth-Trunk
 
-**Tech:** `Cisco` `Huawei` `VLAN` `Eth-Trunk` `Ubuntu Server`
+### 📞 [VoIP Communication System](#)
+- Configured [Cisco CUCM](https://www.cisco.com/c/en/us/support/unified-communications/unified-communications-manager-callmanager/tsd-products-support-series-home.html)  
+- Setup SIP phones, DHCP services, routing  
+**Tech:** CUCM, DHCP, VLAN, Cisco
 
-### 📞 [VoIP Communication System](link-to-repo)
-**Enterprise-grade Voice over IP implementation**
-- Configured Cisco Unified Communications Manager (CUCM)
-- Established subscriber management and telephone provisioning
-- Implemented DHCP services and network routing
-
-**Tech:** `Cisco CUCM` `VoIP` `DHCP` `VLAN`
-
-### 📋 [Employee Task Management System](link-to-repo)
-**Full-stack web application for enterprise task management**
-- Built role-based authentication system
-- Developed real-time notification system
-- Implemented complete CRUD operations with MySQL
-
-**Tech:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `Apache`
+### 📋 [Employee Task Management Web App](#)
+- Built a full-stack web app with CRUD operations  
+- Role-based login with MySQL database backend  
+**Tech:** PHP, MySQL, HTML/CSS, JavaScript
 
 ---
 
@@ -83,39 +89,34 @@
 
 ## 🎓 Certifications
 
-- 🥇 **CCNA1: Introduction to Networks** (Cisco)
-- 🥇 **Junior Cybersecurity Analyst Career Path** (Cisco)
-- 🥇 **PCAP: Programming Essentials in Python** (OpenEDG)
-- 🥇 **Blue Team Junior Analyst** (Security Blue Team)
-- 🥇 **Introduction to PowerShell** (Security Blue Team)
+- 🥇 [CCNA1: Introduction to Networks](https://www.netacad.com/courses/packet-tracer) – Cisco  
+- 🥇 [Junior Cybersecurity Analyst](https://skillsforall.com/course/cybersecurity-path) – Cisco  
+- 🥇 [PCAP: Programming in Python](https://pythoninstitute.org/pcap) – OpenEDG  
+- 🥇 [Blue Team Junior Analyst](https://securityblue.team/courses/blue-team-junior-analyst) – Security Blue Team  
+- 🥇 [PowerShell for Blue Teams](https://securityblue.team/courses/introduction-to-powershell) – SBT
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
-**🔒 SIEM Implementation Specialist** @ Topnet Tunisia *(Feb 2024 - July 2024)*
-- Deployed enterprise SIEM solution using ELK Stack
-- Managed multi-platform security monitoring infrastructure
-- Conducted penetration testing and vulnerability assessments
+### 🔒 SIEM Implementation Specialist @ Topnet Tunisia *(Feb 2024 – Jul 2024)*
+- Deployed SIEM solution using ELK  
+- Collected logs from Windows & Linux agents  
+- Monitored events, created dashboards in Kibana  
+- Conducted penetration tests and documented findings  
 
-**🔧 Network Technician** @ Tunisie Telecom *(Jan 2023 - Feb 2023)*
-- Implemented xDSL and fiber optic technologies
-- Executed IP-MSAN migration projects
-
----
-
-## 🌐 Let's Connect!
-
-I'm always interested in discussing:
-- 🔐 **Cybersecurity** trends and best practices
-- 🌐 **Network infrastructure** design and optimization
-- 💻 **System administration** and automation
-- 🚀 **Technology** innovations and emerging tools
-
-📧 **Email:** mustaphaamintbini@gmail.com  
-💼 **LinkedIn:** [Mustapha Amin TBINI](https://www.linkedin.com/in/mustapha-amin-tbini)  
-🏠 **Location:** Tunis, Tunisia
+### 🔧 Network Technician @ Tunisie Telecom *(Jan 2023 – Feb 2023)*
+- Worked on xDSL, IP-MSAN, and optical fiber migration  
+- Collaborated with senior engineers for client-side support
 
 ---
 
-⭐ **Feel free to explore my repositories and don't hesitate to reach out for collaboration opportunities!**
+## 📬 Contact
+
+📧 Email: [mustaphaamintbini@gmail.com](mailto:mustaphaamintbini@gmail.com)  
+🔗 LinkedIn: [Mustapha Amin TBINI](https://www.linkedin.com/in/mustapha-amin-tbini)  
+📍 Location: Tunis, Tunisia  
+
+---
+
+⭐ Feel free to explore my repositories and reach out for collaboration or opportunities.
